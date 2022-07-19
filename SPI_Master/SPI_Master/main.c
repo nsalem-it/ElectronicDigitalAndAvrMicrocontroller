@@ -2,7 +2,7 @@
  * SPI_Master.c
  *
  * Created: 2022-04-17 15:56:51
- * Author : Hi
+ * Author : Nasreddine
  */ 
 
 #include <avr/io.h>

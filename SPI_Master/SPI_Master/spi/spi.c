@@ -28,7 +28,7 @@ void spi_init_As_Master(void) {
 			| SPI_DORD_bm /* LSB is transmitted first */
 			| SPI_ENABLE_bm /* Enable module */
 			| SPI_MASTER_bm /* SPI module in Master mode */
-			| SPI_PRESC_DIV64_gc; /* System Clock divided by 16 */
+			| SPI_PRESC_DIV64_gc; /* System Clock divided by 64  frequence de communication 3333333/64 */
 }
 
 

@@ -2,7 +2,7 @@
  * SPI_Slave_With_USART.c
  *
  * Created: 2022-04-19 16:45:51
- * Author : Hi
+ * Author : Nasreddine
  */ 
 
 #include <avr/io.h>
